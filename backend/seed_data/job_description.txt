@@ -1,0 +1,41 @@
+Senior Cybersecurity Engineer
+Omni Control Technology — Information Security Team
+
+About the Role
+Omni Control Technology is seeking a Senior Cybersecurity Engineer to strengthen
+the security posture of our industrial control systems and corporate infrastructure.
+You will lead threat detection, incident response, and security architecture efforts
+across cloud and on-premise environments.
+
+Responsibilities
+- Design and maintain SIEM detection rules and monitoring dashboards
+- Lead incident response investigations and forensic analysis
+- Perform vulnerability assessments and coordinate remediation
+- Harden cloud infrastructure on Microsoft Azure and AWS
+- Mentor junior analysts and collaborate with DevOps on secure pipelines
+
+Required Skills
+- 5+ years of experience in cybersecurity or information security
+- Strong hands-on experience with SIEM platforms (Splunk, QRadar, or similar)
+- Network security, firewalls, and intrusion detection systems
+- Incident response and threat hunting
+- Scripting with Python for security automation
+- Familiarity with cloud security on Azure and AWS
+
+Preferred Skills
+- Experience with Kubernetes and container security
+- Knowledge of SOAR platforms
+- Threat intelligence and malware analysis
+- Experience securing industrial control systems (ICS/SCADA)
+
+Certifications
+- CISSP or CompTIA Security+ required
+- CEH or OSCP preferred
+
+Education
+- Bachelor's degree in Computer Science, Information Security, or related field
+
+Soft Skills
+- Strong communication and documentation skills
+- Leadership and mentoring ability
+- Analytical and detail-oriented

@@ -1,0 +1,48 @@
+John Smith
+Senior Cybersecurity Engineer
+Email: john.smith@email.com
+Phone: 555-201-4477
+LinkedIn: linkedin.com/in/johnsmith-sec
+GitHub: github.com/jsmith-sec
+Location: Boston, MA
+
+Professional Summary
+Senior cybersecurity professional with 8 years of experience defending enterprise
+and industrial environments. Specializes in SIEM engineering, incident response,
+and cloud security across Azure and AWS. Proven track record leading threat hunting
+and forensic investigations.
+
+Work Experience
+
+Senior Security Engineer — Aegis Defense Systems (2018 - Present)
+- Built and tuned Splunk SIEM detection rules, cutting alert noise by 40%
+- Led incident response for multiple breach investigations, including malware analysis
+- Hardened Azure and AWS cloud infrastructure to CIS benchmarks
+- Automated security workflows in Python, saving 15 hours per week
+- Mentored a team of four junior analysts
+
+Security Analyst — Northwind Technologies (2016 - 2018)
+- Monitored QRadar SIEM and triaged security incidents
+- Performed vulnerability assessments and coordinated patching
+- Configured firewalls and intrusion detection systems
+
+Education
+Bachelor of Science in Computer Science
+University of Massachusetts, 2016
+
+Skills
+SIEM, Splunk, QRadar, Incident Response, Threat Hunting, Python, Network Security,
+Firewalls, Intrusion Detection, Microsoft Azure, AWS, Malware Analysis, Forensics,
+Vulnerability Assessment
+
+Certifications
+CISSP
+CompTIA Security+
+CEH
+
+Projects
+- SOC Automation Platform: built a Python-based SOAR integration for automated triage
+- ICS Threat Detection: designed monitoring for SCADA network segments
+
+Languages
+English, Spanish
