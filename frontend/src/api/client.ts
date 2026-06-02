@@ -1,7 +1,9 @@
 import axios from "axios";
 import type { Candidate, Job, ProcessingStatus, RankedCandidate } from "./types";
 
-const api = axios.create({ baseURL: "/api" });
+const api = axios.create({
+  baseURL: (import.meta.env.VITE_API_URL ?? "") + "/api",
+});
 
 // Attach the JWT to every request if present.
 api.interceptors.request.use((config) => {
