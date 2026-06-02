@@ -1,0 +1,47 @@
+Priya Patel
+Cloud Security Engineer
+Email: priya.patel@email.com
+Phone: 555-662-3380
+LinkedIn: linkedin.com/in/priyapatel-sec
+GitHub: github.com/ppatel-cloud
+Location: Cambridge, MA
+
+Professional Summary
+Cloud security engineer with 6 years of experience securing large-scale cloud
+environments. Deep expertise in Azure and AWS security, container security, and
+automated threat detection. Comfortable leading cross-functional security initiatives.
+
+Work Experience
+
+Cloud Security Engineer — Stratus Cloud Services (2019 - Present)
+- Architected security controls for multi-account AWS and Azure environments
+- Deployed and tuned a Splunk SIEM with custom detection content
+- Implemented Kubernetes container security and admission controls
+- Led incident response and threat hunting across cloud workloads
+- Automated compliance checks with Python
+
+Information Security Analyst — DataGuard LLC (2017 - 2019)
+- Ran vulnerability assessments and remediation tracking
+- Built SOAR playbooks for automated incident triage
+- Conducted threat intelligence research and malware analysis
+
+Education
+Bachelor of Science in Information Security
+Northeastern University, 2017
+
+Skills
+Microsoft Azure, AWS, Cloud Security, Kubernetes, Container Security, SIEM, Splunk,
+Incident Response, Threat Hunting, Python, SOAR, Threat Intelligence, Malware Analysis,
+Vulnerability Assessment
+
+Certifications
+CISSP
+OSCP
+CompTIA Security+
+
+Projects
+- Cloud Detection Lab: open-source detection rules for Azure and AWS
+- Container Security Scanner: Python tool for Kubernetes misconfiguration detection
+
+Languages
+English, Hindi, Gujarati

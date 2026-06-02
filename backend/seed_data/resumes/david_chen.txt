@@ -1,0 +1,40 @@
+David Chen
+Frontend Web Developer
+Email: david.chen@email.com
+Phone: 555-447-9921
+LinkedIn: linkedin.com/in/davidchen-dev
+GitHub: github.com/dchen-dev
+Location: Worcester, MA
+
+Professional Summary
+Creative frontend developer with 5 years of experience building responsive web
+applications. Passionate about UI/UX, accessibility, and modern JavaScript frameworks.
+
+Work Experience
+
+Frontend Developer — Pixel Forge Studio (2020 - Present)
+- Built React and TypeScript single-page applications
+- Implemented design systems with Material UI and Tailwind CSS
+- Collaborated with designers to ship accessible, responsive interfaces
+
+Junior Web Developer — Maple Media (2019 - 2020)
+- Developed marketing landing pages in HTML, CSS, and JavaScript
+- Optimized page performance and SEO
+
+Education
+Bachelor of Arts in Graphic Design
+Rhode Island School of Design, 2019
+
+Skills
+JavaScript, TypeScript, React, HTML, CSS, Material UI, Tailwind CSS, Figma,
+Responsive Design, Accessibility, Git
+
+Certifications
+None
+
+Projects
+- Portfolio site builder: drag-and-drop website creator built in React
+- E-commerce storefront: responsive shop UI with cart and checkout
+
+Languages
+English, Mandarin

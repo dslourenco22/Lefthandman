@@ -1,0 +1,37 @@
+Maria Garcia
+IT Support Specialist
+Email: maria.garcia@email.com
+Phone: 555-883-1209
+LinkedIn: linkedin.com/in/mariagarcia-it
+Location: Providence, RI
+
+Professional Summary
+IT professional with 4 years of experience in help desk and systems administration,
+transitioning into information security. Strong networking fundamentals and growing
+hands-on experience with security monitoring tools.
+
+Work Experience
+
+IT Support Specialist — Brightline Solutions (2021 - Present)
+- Provided tier-2 support and managed Active Directory accounts
+- Assisted the security team with vulnerability scanning and patch deployment
+- Configured firewalls and VPN access for remote staff
+
+Help Desk Technician — CoreData Inc (2020 - 2021)
+- Resolved hardware and software tickets
+- Documented IT processes and onboarded new employees
+
+Education
+Associate Degree in Network Administration
+Community College of Rhode Island, 2020
+
+Skills
+Network Security, Firewalls, Active Directory, Vulnerability Scanning, Windows Server,
+Python (basic), Help Desk, Troubleshooting
+
+Certifications
+CompTIA Security+
+CompTIA Network+
+
+Languages
+English, Portuguese

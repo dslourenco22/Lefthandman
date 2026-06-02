@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+venv/
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Uploads
+uploads/
+
+# OS
+.DS_Store
+*.zip
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example

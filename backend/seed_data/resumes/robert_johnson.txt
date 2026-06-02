@@ -1,0 +1,38 @@
+Robert Johnson
+Network Engineer
+Email: robert.johnson@email.com
+Phone: 555-119-7744
+LinkedIn: linkedin.com/in/robertjohnson-net
+Location: Hartford, CT
+
+Professional Summary
+Network engineer with 7 years of experience designing and maintaining enterprise
+networks. Strong background in routing, switching, and network security, with
+some exposure to security monitoring.
+
+Work Experience
+
+Senior Network Engineer — LinkPath Communications (2018 - Present)
+- Designed and maintained enterprise LAN/WAN infrastructure
+- Configured firewalls, VPNs, and intrusion detection systems
+- Partnered with the security team on network segmentation projects
+- Scripted network automation tasks in Python
+
+Network Administrator — Summit Logistics (2017 - 2018)
+- Managed switches, routers, and wireless infrastructure
+- Monitored network performance and resolved outages
+
+Education
+Bachelor of Science in Information Technology
+University of Connecticut, 2017
+
+Skills
+Network Security, Firewalls, Routing, Switching, Intrusion Detection, VPN, Python,
+Cisco, Network Monitoring, TCP/IP
+
+Certifications
+CCNA
+CompTIA Security+
+
+Languages
+English
